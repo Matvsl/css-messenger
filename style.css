@@ -68,11 +68,10 @@
   gap: 10px;
   padding: 5px 10px;
   position: fixed;
-  top: 145px;
+  top: 280px;
   left: 10px;
   height: 35px;
   font-size: var(--normal-size);
-  z-index: 999;
 }
 
 #FAM-button-open:hover {
