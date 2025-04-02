@@ -72,6 +72,7 @@
   left: 10px;
   height: 35px;
   font-size: var(--normal-size);
+  z-index: 999;
 }
 
 #FAM-button-open:hover {
