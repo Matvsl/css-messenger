@@ -70,9 +70,9 @@
   position: fixed;
   top: 235px;
   left: 10px;
-  width: 100px;
+  width: 150px;
   height: 35px;
-  font-size: var(--little-size);
+  font-size: var(--normal-size);
 }
 
 #FAM-button-open:hover {
