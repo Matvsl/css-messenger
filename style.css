@@ -76,7 +76,7 @@
 
 #FAM-button-open:hover {
   background-color: var(--accentClr);
-  color: var(--textColor);
+  color: var(--survolBoutons);
 }
 
 #FAM[data-hidden="false"] ~ #FAM-button-open {
